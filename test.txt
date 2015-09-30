@@ -1,2 +1,6 @@
 First Line
+<<<<<<< HEAD
 Second Line
+=======
+Third Line
+>>>>>>> feature/US003
